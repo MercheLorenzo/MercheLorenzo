@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 🌱 My current objective is to add more Holopins to my collection, to upload more projects and to learn a lot in tryhackme (my user is DarkQueen2)
 - ⚡ My goal is to become a compenent programmer and travel around the world
 
+- I am learning a lot in TryhackMe, I participated many times in Hacktoberfests and also in CTFs
+
 ### My TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkQueen2.png" alt="TryHackMe">
 (It is not updated, you can check my profile :) )
