@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![An image of @merchelorenzo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/merchelorenzo)](https://holopin.io/@merchelorenzo)
 
 ## About me...
-- 👯 Mercedes Lorenzo Aragón, 21, she/her
+- 👯 Mercedes Lorenzo Aragón, 24, she/her
 - 🔭 I’m currently studying Computer Science in the University of Granada (UGR), in Spain
 - 🤔 I want to learn a lot about cybersecurity, servers, networks.. but I am interested about everything :)
 - 💬 I speak Spanish (native), English (Cambridge B2), French (B1), Chinese (A2/HSK2), Korean (A1), Italian (A1).. and currently learning. Love languages :)
