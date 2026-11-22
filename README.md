@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 ## About me...
 - 👯 Mercedes Lorenzo Aragón, 24, she/her
-- 🔭 I’m currently studying Computer Science in the University of Granada (UGR), in Spain
-- 🤔 I want to learn a lot about cybersecurity, servers, networks.. but I am interested about everything :)
-- 💬 I speak Spanish (native), English (Cambridge B2), French (B1), Chinese (A2/HSK2), Korean (A1), Italian (A1).. and currently learning. Love languages :)
+- 🎓 Computer Science graduate, currently pursuing a Master's degree in Computer Science at the University of Granada (UGR), Spain
+- 💬 I speak Spanish (native), English (Cambridge B2), French (B1), Chinese (B1/HSK3), German (A1), Korean (A1), Italian (A1), Japanese (A1), Irish (A1).. and currently learning. Love languages :)
 - 📫 How to reach me: @merche_lorenzo in both telegram and instagram
-- 🌱 My current objective is to add more Holopins to my collection, to upload more projects and to learn a lot in tryhackme (my user is DarkQueen2)
-- ⚡ My goal is to become a compenent programmer and travel around the world
+- 🌱 My current objective is to develop and upload more projects
 
-- I am learning a lot in TryhackMe, I participated many times in Hacktoberfests and also in CTFs
+- ⚡ I am learning a lot in TryhackMe, I participated many times in Hacktoberfests and also in CTFs
 
 ### My TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkQueen2.png" alt="TryHackMe">
